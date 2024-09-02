@@ -1,16 +1,10 @@
-# Minor Project
+
 ## Financial_Assistant
 
-## Group - 18
-
-**Mentor** - Prof. Sudesh Rani, Faculty, Computer Science and Engineering
 
 ### Developers:
 
-- Vishal Thakur - 18103007
-- Gaganpreet Singh Khurana - 18103032
-- Shayan Yaseen - 18103033
-- Akshit Garg - 18103042
+Bibhuti Ranjan
 
 
 ## Project Execution:
